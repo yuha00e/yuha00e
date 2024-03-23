@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!+I'm+yuha!)](https://git.io/typing-svg)
 
+![Static Badge](https://img.shields.io/badge/yuha00e)
+
 ### Hi there 👋
 
 <!--

@@ -12,7 +12,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuha00e&layout=compact&theme=nightowl)
 
 <div align='center'>
-	<a href="https://yuha00e.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+	<a href="https://yuha00e.tistory.com/"><img src="https://img.shields.io/badge/tistory-EC4815?style=flat-square&logo=tistory&logoColor=white"/></a>
 </div>
 
 

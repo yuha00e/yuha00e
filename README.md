@@ -17,7 +17,7 @@
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuha00e&layout=compact&theme=nightowl)
+
 
 
 <!--

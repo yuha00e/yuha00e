@@ -17,7 +17,6 @@
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuha00e&show_icons=true&theme=nightowl)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuha00e&layout=compact&theme=nightowl)
 
 
@@ -32,6 +31,8 @@ capsule-render 만들어둔 버전 (나중에 사용하기!)
 자기소개 프레임(Hello!+I'm+yuha!)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!+I'm+yuha!)](https://git.io/typing-svg)
 
+stats 표 만들어둔 버전
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuha00e&show_icons=true&theme=nightowl)
 
 Here are some ideas to get you started:
 

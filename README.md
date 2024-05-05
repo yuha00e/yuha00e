@@ -6,10 +6,7 @@
 -----
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuha00e&show_icons=true&theme=nightowl)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuha00e&layout=compact&theme=nightowl)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuha00e&show_icons=true&theme=nightowl)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuha00e&layout=compact&theme=nightowl)
 
 <h3 align="center">✨ About Me ✨</h3>
 <div align='center'>

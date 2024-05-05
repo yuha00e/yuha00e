@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=yuha00e&fontSize=90)
------
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!+I'm+yuha!)](https://git.io/typing-svg)
 
@@ -17,18 +15,20 @@
 </div>
 
 <br>
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuha00e&show_icons=true&theme=nightowl)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuha00e&layout=compact&theme=nightowl)
 
 
-
-<h3 align="center"> 제목 </h3>
-	<!-- 여기에 내용을!! -->
-</div>
-
 <!--
 **yuha00e/yuha00e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+나중에 사용할 부분 모아두기!
+
+capsule-render 만들어둔 버전 (나중에 사용하기!)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=yuha00e&fontSize=90)
+
 
 Here are some ideas to get you started:
 

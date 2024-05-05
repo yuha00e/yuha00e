@@ -5,14 +5,17 @@
 
 -----
 
+<h3 align="center"> ✨ About Me ✨ </h3>
+<div align='center'>
+	<a href="https://yuha00e.tistory.com/"><img src="https://img.shields.io/badge/tistory-EC4815?style=flat-square&logo=tistory&logoColor=white"/></a>
+</div>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuha00e&show_icons=true&theme=nightowl)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuha00e&layout=compact&theme=nightowl)
 
-
-<h3 align="center">✨ About Me ✨</h3>
-<div align='center'>
-	<a href="https://yuha00e.tistory.com/"><img src="https://img.shields.io/badge/tistory-EC4815?style=flat-square&logo=tistory&logoColor=white"/></a>
+<h3 align="center"> 🛠 Tech Stack </h3>
+	<!-- 여기에 내용을!! -->
 </div>
 
 

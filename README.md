@@ -34,6 +34,9 @@ capsule-render 만들어둔 버전 (나중에 사용하기!)
 stats 표 만들어둔 버전
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuha00e&show_icons=true&theme=nightowl)
 
+사용 언어 통계 만들어둔 버전
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuha00e&layout=compact&theme=nightowl)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

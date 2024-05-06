@@ -3,6 +3,7 @@
 
 -----
 
+
 <h3 align="center"> ✨ About Me ✨ </h3>
 <div align='center'>
 	<a href="https://yuha00e.tistory.com/"><img src="https://img.shields.io/badge/tistory-EC4815?style=flat-square&logo=tistory&logoColor=white"/></a>

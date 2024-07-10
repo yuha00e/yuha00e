@@ -12,7 +12,7 @@
 
 <h3 align="center"> 🛠 Tech Stack </h3>
 <div align='center'>
-	<img src="https://img.shields.io/badge/java-F7DF1E?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> 
+	<img src="https://img.shields.io/badge/java-F7DF1E?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> 
 </div>
 
 
@@ -31,6 +31,8 @@
 **yuha00e/yuha00e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 나중에 사용할 부분 모아두기!
+
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> 
 
 capsule-render 만들어둔 버전 (나중에 사용하기!)
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=yuha00e&fontSize=90)

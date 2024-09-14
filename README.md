@@ -16,6 +16,8 @@
 </div>
 
 
+
+
 <br>
 <br>
 
@@ -28,6 +30,15 @@
 
 
 <!--
+
+도구 뱃지 정리해서 올리기
+
+<h3 align="center"> 🛠 Tool </h3>
+<div align='center'>
+	<img src="https://img.shields.io/badge/java-F7DF1E?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> 
+</div>
+
+
 **yuha00e/yuha00e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 나중에 사용할 부분 모아두기!

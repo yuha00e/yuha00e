@@ -17,7 +17,7 @@
 
 <h3 align="center"> 🛠 Tool </h3>
 <div align='center'>
-	<img src="https://img.shields.io/badge/java-#000000?style=for-the-badge&logo=IntelliJ&logoColor=white"/> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> 
+	<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/> 
 </div>
 
 
